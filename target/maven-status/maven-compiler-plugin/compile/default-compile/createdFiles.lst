@@ -1,0 +1,5 @@
+org\example\docParser\ftLoader.class
+org\example\App.class
+org\example\docParser\laTimes_parser.class
+org\example\docParser\fbparser.class
+org\example\docParser\frparser.class
